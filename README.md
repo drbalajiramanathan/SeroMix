@@ -56,17 +56,22 @@ Excellent model convergence can be confirmed by rhat values of 1.00 and high ess
 
 ```mermaid
 graph TD;
-    A(clinical-ai-validation-report) --> B(reports);
-    B --> B1(validation_report_final.pdf);
-    A --> C(notebooks);
-    C --> C1(main_analysis.ipynb);
-    A --> D(scripts);
-    D --> D1(data_preprocessing.py);
-    A --> E(images);
-    E --> E1(SaMD_Validation_dossier.png);
+    A(SeroMix_Package) --> B(R/);
+    B --> B1(run_seromix.R);
+
+    A --> C(inst/);
+    C --> C1(stan/);
+    C1 --> C1a(seromix_baseline.stan);
+    
+    A --> D(man/);
+    D --> D1(run_seromix_baseline.Rd);
+
+    A --> E(.Rbuildignore);
     A --> F(.gitignore);
-    A --> G(LICENSE);
-    A --> H(README.md);
+    A --> G(DESCRIPTION);
+    A --> H(NAMESPACE);
+    A --> I(SeroMix.Rproj);
+    A --> J(README.md);
 ```
 ---
 
