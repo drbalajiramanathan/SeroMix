@@ -1,11 +1,16 @@
 Package: SeroMix
-Title: What the Package Does (One Line, Title Case)
+Title: A Bayesian Baseline Model for Serological Classification
 Version: 0.0.0.9000
 Authors@R: 
-    person("First", "Last", , "first.last@example.com", role = c("aut", "cre"))
-Description: What the package does (one paragraph).
-License: `use_mit_license()`, `use_gpl3_license()` or friends to pick a
-    license
+    person("Balaji", "Ramanathan", email = "drbalaji96@gmail.com", role = c("aut", "cre"))
+Description: Provides a robust, validated statistical tool to classify 
+    individuals into "infected" and "uninfected" groups based on 
+    serological titre data. This package is the result of a rigorous 
+    development process that demonstrated that more complex longitudinal 
+    models were not identifiable with the available data. The resulting 
+    baseline model is fast, stable, and provides a crucial performance 
+    benchmark for serological classification tasks.
+License: MIT + file LICENSE
 Encoding: UTF-8
 Roxygen: list(markdown = TRUE)
 RoxygenNote: 7.3.3
