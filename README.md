@@ -49,7 +49,6 @@ The primary output of the model includes:
 - mu[2]: The mean log-titre for the "infected" group.
 
 - theta[1] and theta[2]: The estimated proportions of the "uninfected" and "infected" groups in the population.
-
 Excellent model convergence can be confirmed by rhat values of 1.00 and high ess_bulk values.
 ---
 
