@@ -80,7 +80,7 @@ For questions or collaborations, please connect with me on LinkedIn:
       <img src="https://img.shields.io/badge/%3C%2F%3E-cytos.dev-63b6ec?style=for-the-badge" alt="cytos.dev portfolio">
     </a>
     <br>
-    <a href="https://www.linkedin.com/in/drbalaji96/" target="_blank">
+    <a href="https://www.linkedin.com/in/drbalajiramanathan/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
     </a>
   </td>
