@@ -90,7 +90,7 @@ For questions or collaborations, please connect with me on LinkedIn:
     </a>
   </td>
   <td valign="middle" align="left" style="padding-left:20px;">
-    <h3 style="margin: 0;">© 2025 Dr.Balaji Ramanathan</h3>
+    <h3 style="margin: 0;">© 2025 Balaji Ramanathan</h3>
   </td>
 </tr>
 </table>
